@@ -5,7 +5,7 @@
 - ⚡ Uma curiosidade sobre mim: tenho uma grande admiração por soul e jazz.
 
 <div style="display: inline_block">
- <h3>Rank in Code Wars!!</h3>
+ <h3>Rank in Code Wars!</h3>
  <img align="center" alt="Nicolas-Node" height="100" width="420" src='https://www.codewars.com/users/onicolasdelfino/badges/large'>
 </div>
 
