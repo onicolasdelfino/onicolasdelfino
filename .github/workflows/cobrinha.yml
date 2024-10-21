@@ -1,28 +1,24 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+# Nome da Actions:  
+name: Snake Game
 
-# Controls when the action will run.
+# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # every 12 hours
+    # Será atualizado a cada 12 horas.
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Também rodar em cada push na branch main
   push:
     branches:
     - main
 
-# The sequence of runs in this workflow:
+# Regras
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -31,13 +27,13 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: onicolasdelfino
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
