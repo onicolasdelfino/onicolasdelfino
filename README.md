@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nicolas Delfino! 👋
 
-- 🔭 Now I'm working as a tech lead (Main technologies: NodeJS, MongoDB, Redis, Nest.js and Fastify)
-- 🌱 Studying Flutter, Go, AWS Services, Microservices, Advanced Software Engineering Techniques and Algorithm Analysis and Design
-- ⚡ Fun fact: Passionate about Literature and Card Games
+- 🔭 Atualmente, atuo na área de marketing como estrategista digital, mas estou focando no desenvolvimento de habilidades em programação, que considero essenciais no mercado hoje.
+- 🌱 No momento, estou ampliando meus conhecimentos em HTML, CSS, TypeScript, React e Java.
+- ⚡ Uma curiosidade sobre mim: tenho uma grande admiração por soul e jazz.
 
 <div style="display: inline_block">
  <h3>Rank in Code Wars!</h3>
