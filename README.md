@@ -1,15 +1,31 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://onicolasdelfino.io)
-### Olá! Eu sou o Nicolas Delfino! 👋
+<!-- Meu Nome -->
+<h1 align="center" >Olá! Eu sou o Nicolas Delfino! 👋</h1>
 
-- 🔭 Atualmente, atuo na área de marketing como estrategista digital, mas estou focando no desenvolvimento de habilidades em programação, que considero essenciais no mercado hoje.
-- 🌱 No momento, estou ampliando meus conhecimentos em HTML, CSS, TypeScript, React e Java.
-- ⚡ Uma curiosidade sobre mim: tenho uma grande admiração por soul e jazz.
+<!-- Banner do Mario Programando -->
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
+<!-- Banner do cara Programando no Quarto --> <!-- Para ativar esse Banner, é só tirar o segundo ponto depois do appspot -->
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot..com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://onicolasdelfino.io)
+
+<!-- Biografia (Tópicos) --> 
+<!-- Para retomar com a Biografia em Tópico, é só organizar de acordo com o traço de tópico (-) para que ele deixe de ser um comentário e desfazer as setas. - Atualmente, atuo na área de marketing como estrategista digital, com foco no desenvolvimento de habilidades em programação, que considero essenciais no mercado atual. Estou ampliando meus conhecimentos em HTML, CSS, TypeScript, React e Java. Além disso, tenho uma grande admiração por soul e jazz. -->
+
+<!-- Biografia (Descritiva) -->
+  ## 💡 Sobre mim :
+
+Atualmente, atuo na área de marketing como estrategista digital, onde desenvolvo e implemento estratégias eficazes para maximizar a presença online das marcas com as quais trabalho. No entanto, reconhecendo a crescente importância da tecnologia no mercado atual, estou focando no desenvolvimento de habilidades em programação, que considero essenciais para complementar minha atuação e agregar valor aos meus projetos.
+
+No momento, estou ampliando meus conhecimentos em HTML, CSS, TypeScript, React e Java. Esses idiomas e frameworks me permitem criar aplicações web dinâmicas e responsivas, além de fornecer uma base sólida para entender o funcionamento das tecnologias que impulsionam o marketing digital. Meu objetivo é integrar essa nova expertise às minhas estratégias de marketing, visando não apenas otimizar a experiência do usuário, mas também explorar novas oportunidades no universo digital.
+
+Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excelência em tudo que faço e preparado para enfrentar os desafios do mercado contemporâneo.
+
+<!-- Rank de Projetos no Code Wars -->
 <div style="display: inline_block">
 <h2>🌐 Rank in Code Wars!</h2>
  <img align="center" alt="Nicolas-Node" height="100" width="420" src='https://www.codewars.com/users/onicolasdelfino/badges/large'>
 </div>
 
+<!-- Status em tempo real de todos os meus Projetos ou Colaborações em Dados -->
 ## 📊 GitHub Stats
 
 <div> 
@@ -19,6 +35,7 @@
 </a>
 </div>
 
+<!-- Linguagens que eu uso -->
 ## 💻 Minha Stack
 
 <div style="display: inline_block"><br>
@@ -39,6 +56,7 @@
   
 ##
 
+<!-- Meios de Contato e Redes Sociais -->
 ## :speech_balloon: Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
@@ -52,7 +70,9 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 <a href="mailto:delfinonicolas15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
-  
+
+  <!-- Animação da Cobra comendo os Commits -->
  ![Snake animation](https://github.com/onicolasdelfino/onicolasdelfino/blob/output/github-contribution-grid-snake-dark.svg)
 
+<!-- Agradecimento ou Mensagem -->
 <p align="center">Feito com 💜 <strong>Nicolas Delfino :wave: </p>
