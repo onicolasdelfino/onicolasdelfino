@@ -6,9 +6,11 @@
 - ⚡ Uma curiosidade sobre mim: tenho uma grande admiração por soul e jazz.
 
 <div style="display: inline_block">
- <h3>Rank in Code Wars!</h3>
+<h2>🌐 Rank in Code Wars!</h2>
  <img align="center" alt="Nicolas-Node" height="100" width="420" src='https://www.codewars.com/users/onicolasdelfino/badges/large'>
 </div>
+
+## 📊 GitHub Stats
 
 <div> 
   <a href="https://github.com/onicolasdelfino">
@@ -16,6 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicolasdelfino&layout=compact&langs_count=7&theme=dark" />
 </a>
 </div>
+
+## 💻 Minha Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
@@ -35,6 +39,10 @@
   
 ##
 
+## :speech_balloon: Vamos conversar  
+
+Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+
 <a href="https://www.linkedin.com/in/onicolasdelfino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/onicolasdelfino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@onicolasdelfino" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -43,6 +51,8 @@
 <a href="https://twitter.com/nicolasdelfinoo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="mailto:delfinonicolas15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+##
   
-
  ![Snake animation](https://github.com/onicolasdelfino/onicolasdelfino/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">Feito com 💜 <strong>Nicolas Delfino :wave: </p>
