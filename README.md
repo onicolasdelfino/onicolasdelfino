@@ -11,7 +11,7 @@
 <!-- Para retomar com a Biografia em Tópico, é só organizar de acordo com o traço de tópico (-) para que ele deixe de ser um comentário e desfazer as setas. - Atualmente, atuo na área de marketing como estrategista digital, com foco no desenvolvimento de habilidades em programação, que considero essenciais no mercado atual. Estou ampliando meus conhecimentos em HTML, CSS, TypeScript, React e Java. Além disso, tenho uma grande admiração por soul e jazz. -->
 
 <!-- Biografia (Descritiva) -->
-  ## 💡 Sobre mim :
+  ## 💡 About Me :
 
 Atualmente, atuo na área de marketing como estrategista digital, onde desenvolvo e implemento estratégias eficazes para maximizar a presença online das marcas com as quais trabalho. No entanto, reconhecendo a crescente importância da tecnologia no mercado atual, estou focando no desenvolvimento de habilidades em programação, que considero essenciais para complementar minha atuação e agregar valor aos meus projetos.
 
@@ -30,22 +30,25 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 
 <div> 
   <a href="https://github.com/onicolasdelfino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicolasdelfino&layout=compact&langs_count=6&theme=dark" />
 </a>
 </div>
 
+<!-- Fixado os Top Repositórios -->
 ## 📌 Top Repositories
 
 <a href="https://github.com/onicolasdelfino/onicolasdelfino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=github-readme-stats&theme=dark" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=github-readme-stats&theme=dark" />-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=onicolasdelfino&theme=dark&show_owner=true" />
 </a>
 <a href="https://github.com/onicolasdelfino/dall-e">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=dall-e&theme=dark" />
 </a>
 
 <!-- Linguagens que eu uso -->
-## 💻 Minha Stack
+## 💻 My Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
@@ -66,7 +69,7 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 ##
 
 <!-- Meios de Contato e Redes Sociais -->
-## :speech_balloon: Vamos conversar  
+## :speech_balloon: Let’s talk!  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
