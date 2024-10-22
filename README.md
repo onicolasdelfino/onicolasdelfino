@@ -35,6 +35,15 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 </a>
 </div>
 
+## 📌 Top Repositories
+
+<a href="https://github.com/onicolasdelfino/onicolasdelfino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=github-readme-stats&theme=dark" />
+</a>
+<a href="https://github.com/onicolasdelfino/dall-e">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=dall-e&theme=dark" />
+</a>
+
 <!-- Linguagens que eu uso -->
 ## 💻 Minha Stack
 
