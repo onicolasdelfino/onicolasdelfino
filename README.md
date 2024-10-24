@@ -43,8 +43,8 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel√
  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=github-readme-stats&theme=dark" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=onicolasdelfino&theme=dark&show_owner=true" />
 </a>
-<a href="https://github.com/onicolasdelfino/dall-e">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=dall-e&theme=dark" />
+<a href="https://github.com/onicolasdelfino/Optimization-System-Windows-11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=Optimization-System-Windows-11&theme=dark" />
 </a>
 
 <!-- Linguagens que eu uso -->
