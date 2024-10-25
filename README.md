@@ -1,5 +1,7 @@
 <!-- Meu Nome -->
-<h1 align="center" >Olá! Eu sou o Nicolas Delfino! 👋</h1>
+<!--<h1 align="center" >Olá! Eu sou o Nicolas Delfino! 👋</h1>-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sf+Pro+Display+semibold&weight=900&size=40&pause=1000&color=FFFFFF&width=600&height=60&lines=Ol%C3%A1!+Eu+sou+o+Nicolas+Delfino!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Banner do Mario Programando -->
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
@@ -33,7 +35,10 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicolasdelfino&layout=compact&langs_count=6&theme=dark" />
-</a>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=onicolasdelfino&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats" />
+  </a>
+</p>
+<br/>
 </div>
 
 <!-- Fixado os Top Repositórios -->
@@ -47,8 +52,14 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=Optimization-System-Windows-11&theme=dark" />
 </a>
 
+<h2 align="display">⚒️ Languages | Frameworks | Tools</h2>
+<br/>
+<br/>
+<div align="display">
+    <img src="https://skillicons.dev/icons?i=react,nestjs,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,notion,nodejs,javascript,typescript,angular,vue,express,c,codepen,cs,java,gradle,nextjs,swift,dart,flutter,firebase,docker,graphql,go,rust,python,django,postgres,mysql,sqlite,mongodb,arduino,azure,figma,blender,ai,au,ps,pr,xd" />
+
 <!-- Linguagens que eu uso -->
-## 💻 My Stack
+<!--## 💻 My Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
@@ -66,9 +77,13 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
   <img align="center" alt="Nicolas-gitLab" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'>
 </div>
   
-##
+##-->
 
 <!-- Meios de Contato e Redes Sociais -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=onicolasdelfino&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
 ## :speech_balloon: Let’s talk!  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
