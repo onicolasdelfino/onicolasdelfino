@@ -35,7 +35,7 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel√
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicolasdelfino&layout=compact&langs_count=6&theme=dark" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=onicolasdelfino&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=onicolasdelfino&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 <br/>
