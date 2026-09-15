@@ -41,17 +41,6 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 <br/>
 </div>
 
-<!-- Fixado os Top Repositórios -->
-## 📌 Top Repositories
-
-<a href="https://github.com/onicolasdelfino/onicolasdelfino">
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=github-readme-stats&theme=dark" />-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=onicolasdelfino&theme=dark&show_owner=true" />
-</a>
-<a href="https://github.com/onicolasdelfino/Optimization-System-Windows-11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onicolasdelfino&repo=Optimization-System-Windows-11&theme=dark" />
-</a>
-
 <h2 align="display">⚒️ Languages | Frameworks | Tools</h2>
 <br/>
 <br/>
@@ -67,8 +56,6 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nicolas-Java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
-  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicolas-Mongo" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
   <img align="center" alt="Nicolas-postgre" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
   <img align="center" alt="Nicolas-mysql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
@@ -80,9 +67,6 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
 ##-->
 
 <!-- Meios de Contato e Redes Sociais -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=onicolasdelfino&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ## :speech_balloon: Let’s talk!  
 
