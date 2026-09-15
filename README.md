@@ -27,25 +27,13 @@ Estou comprometido em continuar aprendendo e evoluindo, buscando sempre a excel�
  <img align="center" alt="Nicolas-Node" height="100" width="420" src='https://www.codewars.com/users/onicolasdelfino/badges/large'>
 </div>
 
-<!-- Status em tempo real de todos os meus Projetos ou Colaborações em Dados -->
-## 📊 GitHub Stats
-
-<div> 
-  <a href="https://github.com/onicolasdelfino">
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onicolasdelfino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicolasdelfino&layout=compact&langs_count=6&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=onicolasdelfino&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-<br/>
-</div>
+<!-- Linguagens que eu uso -->
 
 <h2 align="display">⚒️ Languages | Frameworks | Tools</h2>
 <br/>
 <br/>
 <div align="display">
-    <img src="https://skillicons.dev/icons?i=react,nestjs,bootstrap,mui,html,css,git,github,gitlab,tailwind,vscode,androidstudio,notion,nodejs,javascript,typescript,angular,vue,express,c,codepen,cs,java,gradle,nextjs,swift,dart,flutter,firebase,docker,graphql,go,rust,python,django,postgres,mysql,sqlite,mongodb,arduino,azure,figma,blender,ai,au,ps,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=react,nestjs,bootstrap,tailwind,vscode,nodejs,javascript,typescript,java,nextjs,dart,flutter,docker,graphql,python,postgres,mysql,sqlite,mongodb,figma,ai,au,ps,pr" />
 
 <!-- Linguagens que eu uso -->
 <!--## 💻 My Stack
